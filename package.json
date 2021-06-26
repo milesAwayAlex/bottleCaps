@@ -1,0 +1,24 @@
+{
+  "name": "bottlecaps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milesAwayAlex/bottleCaps.git"
+  },
+  "author": "Alex Mozgovoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milesAwayAlex/bottleCaps/issues"
+  },
+  "homepage": "https://github.com/milesAwayAlex/bottleCaps#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.1"
+  }
+}
